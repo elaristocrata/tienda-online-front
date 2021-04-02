@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tienda-online-front"
+    }
+  },
+  "defaultProject": "tienda-online-front",
+  "cli": {
+    "analytics": "5ef4fd01-399a-4b8d-9253-1637bbd52bd0"
+  }
 }
